@@ -1,8 +1,6 @@
 # Chess_Project
 Distributed analysis of 6.25M Lichess games using PySpark. Leverages Random Forest for winner prediction (63% acc), K-Means for player segmentation, and FPGrowth for pattern mining.
-Ecco il testo in formato Markdown puro.
 
-Puoi copiare tutto il blocco qui sotto e incollarlo direttamente nell'editor del file README.md sul sito di GitHub.
 
 ♟️ Distributed Data Analysis of 6.25M Chess Games
 A PySpark Project for Distributed Data Analysis and Mining > University of Pisa - Master's Degree in Computer Science
